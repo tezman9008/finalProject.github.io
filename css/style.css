@@ -1,0 +1,45 @@
+/* #searchResults {
+    padding-right: 5px;
+    cursor: pointer;
+  } */
+  
+#searchForm {
+    padding-bottom: 2rem;
+  }
+
+img{
+  /* display: grid; */
+  grid-template-columns: repeat(5, 1fr);
+  position: relative; 
+  width: 250px}
+
+/* .result{
+  /* display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 10px; */
+  /* cursor: pointer
+} */ 
+
+body{
+  background: #232323;
+  align: center;
+  text-align: center;
+}
+
+h1{
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  max-height: 1000px;
+  color: #bbb8b8;  
+  text-align: center;
+}
+
+h4{
+  color:#a81010;
+  font-family: helvetica, sans-serif;
+}
+
+h3{
+  font-family: helvetica, sans-serif;
+  color: #bbb8b8;  
+}
