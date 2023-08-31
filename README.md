@@ -1,5 +1,6 @@
 # finalProject.github.io
 
+https://tezman9008.github.io/finalProject.github.io/
 
 This is a simple website to look up game statistics, game sprites, and element types of specific pokemon as listed in the free public Pokemon API
 
